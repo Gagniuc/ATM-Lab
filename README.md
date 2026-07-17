@@ -1,1 +1,105 @@
-# Tehnici de reverse engineering si analiza de cod malware
+# Delta Memory Force 2.0
+
+**Delta Memory Force 2.0** este o aplicație Windows pentru monitorizarea și administrarea resurselor sistemului, realizată în perioada **2000–2001**. Ultima versiune cunoscută a fost compilată în jurul anului **2004**.
+
+Proiectul este publicat în prezent cu scop **istoric, educațional și arhivistic**, ca exemplu de aplicație de sistem dezvoltată pentru generațiile Windows de la începutul anilor 2000.
+
+## Capturi de ecran
+
+### Interfața principală
+
+![Delta Memory Force 2.0 – interfața principală](DMF_close.jpg)
+
+### Panoul extins pentru administrarea proceselor
+
+![Delta Memory Force 2.0 – administrarea proceselor](DMF_open.jpg)
+
+## Funcționalități
+
+Aplicația afișează în timp real:
+
+- memoria RAM liberă și memoria totală;
+- gradul de utilizare a procesorului;
+- grafice pentru activitatea CPU și a memoriei;
+- lista proceselor active;
+- prioritatea procesului selectat;
+- numărul de fire de execuție ale procesului selectat;
+- capacitatea și spațiul liber ale unităților de stocare;
+- numărul total de procese active.
+
+Programul permite, de asemenea:
+
+- eliberarea memoriei RAM;
+- schimbarea priorității proceselor;
+- terminarea proceselor selectate;
+- actualizarea listei de procese;
+- accesarea unor opțiuni suplimentare de administrare a sistemului.
+
+## Principiul de eliberare a memoriei
+
+Delta Memory Force elibera memoria RAM prin **alocarea temporară a unei cantități mari de memorie**.
+
+Această operație determina sistemul Windows să reducă memoria fizică ocupată de paginile inactive și să transfere o parte dintre acestea în memoria virtuală, pe disc. După finalizarea procesului, memoria alocată temporar de aplicație era eliberată, rezultând o creștere imediată a cantității de RAM raportate ca fiind disponibile.
+
+Programul nu ștergea date și nu închidea automat aplicațiile. El forța sistemul de operare să reorganizeze utilizarea memoriei, păstrând în RAM în special datele active și mutând temporar pe disc informațiile utilizate mai rar.
+
+La începutul anilor 2000, această tehnică era cunoscută sub denumiri precum:
+
+- **RAM optimization**;
+- **memory forcing**;
+- **memory freeing**.
+
+Acest principiu explică și numele aplicației: **Delta Memory Force**.
+
+> Creșterea valorii „Free RAM” nu înseamnă neapărat o creștere permanentă a performanței. În anumite situații, accesarea ulterioară a datelor mutate în memoria virtuală putea produce activitate suplimentară pe disc.
+
+## Interfață
+
+Interfața grafică reflectă stilul aplicațiilor tehnice de la începutul anilor 2000:
+
+- fundal negru;
+- grafice și texte verzi;
+- indicatori colorați actualizați în timp real;
+- controale compacte pentru monitorizarea rapidă a sistemului;
+- panou extins pentru procese, prioritate și fire de execuție.
+
+## Compatibilitate
+
+Aplicația a fost proiectată pentru sistemele Windows disponibile în perioada în care a fost dezvoltată.
+
+Compatibilitatea probabilă include:
+
+- Windows 98;
+- Windows NT;
+- Windows 2000;
+- posibil Windows XP.
+
+Compatibilitatea exactă urmează să fie verificată prin analizarea executabilului original și prin testare în mașini virtuale.
+
+Aplicația nu este destinată sistemelor Windows moderne, iar funcționarea sa pe Windows 10 sau Windows 11 nu este garantată.
+
+## Cod sursă
+
+Intenționez să public și **codul sursă original al aplicației**, în măsura în care acesta poate fi recuperat și organizat.
+
+Codul va fi oferit ca:
+
+- material istoric;
+- exemplu de programare Windows;
+- exemplu de monitorizare a resurselor sistemului;
+- exemplu de administrare a proceselor;
+- proiect software reprezentativ pentru începutul anilor 2000.
+
+## Starea proiectului
+
+- **Perioada inițială de dezvoltare:** 2000–2001
+- **Ultima versiune compilată:** aproximativ 2004
+- **Stare actuală:** proiect istoric / arhivistic
+- **Platformă originală:** Microsoft Windows
+- **Versiune prezentată:** Delta Memory Force 2.0
+
+## Notă
+
+Acest proiect este publicat pentru documentare și conservare istorică. Unele funcții de administrare a proceselor și memoriei pot necesita drepturi speciale sau pot avea un comportament diferit pe sisteme de operare mai noi.
+
+Nu se recomandă executarea aplicației originale pe un sistem de producție. Pentru testare, este indicată utilizarea unei mașini virtuale izolate.
