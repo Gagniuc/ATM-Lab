@@ -2,6 +2,8 @@
 
 **Delta Memory Force 2.0** este o aplicație Windows pentru monitorizarea și administrarea resurselor sistemului, realizată în perioada **1999–2001**. Ultima versiune a fost compilată în jurul anului **2004**. Proiectul este publicat în prezent cu scop istoric, educațional și arhivistic, ca exemplu de aplicație de sistem dezvoltată pentru generațiile Windows de la sfârșitul anilor 1990 și începutul anilor 2000.
 
+Prima versiune distribuită public, Delta Memory Force 1.0, a apărut la începutul anilor 2000 pe compilația internațională <a href="https://archive.org/details/onyxdvd-11">Onyx DVD #11 – Adrenaline</a>, sub denumirea „Delta Memory Force 1.0 (c) RamForces”. Această includere reprezintă cea mai veche apariție publică documentată a aplicației identificată până în prezent.
+
 Programul afișează în timp real memoria RAM liberă și totală, utilizarea procesorului, graficele de activitate pentru CPU și memorie, lista proceselor active, prioritatea și numărul de fire de execuție ale procesului selectat, precum și capacitatea și spațiul liber ale unităților de stocare.
 
 Aplicația permite eliberarea memoriei RAM, schimbarea priorității proceselor, terminarea acestora și accesarea unor funcții avansate de administrare. Interfața grafică, specifică începutului anilor 2000, folosește un stil tehnic distinct, cu fundal negru, grafice verzi și indicatori colorați actualizați în timp real.
