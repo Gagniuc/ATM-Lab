@@ -8,11 +8,7 @@ Proiectul este publicat în prezent cu scop **istoric, educațional și arhivist
 
 ### Interfața principală
 
-![Delta Memory Force 2.0 – interfața principală](DMF_close.jpg)
-
-### Panoul extins pentru administrarea proceselor
-
-![Delta Memory Force 2.0 – administrarea proceselor](DMF_open.jpg)
+![Screenshot](https://github.com/Gagniuc/ATM-Lab/blob/main/img/DMF_open.jpg)
 
 ## Funcționalități
 
