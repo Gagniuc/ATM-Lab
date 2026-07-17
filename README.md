@@ -6,18 +6,13 @@ Programul afișează în timp real memoria RAM liberă și totală, utilizarea p
 
 Aplicația permite eliberarea memoriei RAM, schimbarea priorității proceselor, terminarea acestora și accesarea unor funcții avansate de administrare. Interfața grafică, specifică începutului anilor 2000, folosește un stil tehnic distinct, cu fundal negru, grafice verzi și indicatori colorați actualizați în timp real.
 
+![Screenshot](https://github.com/Gagniuc/ATM-Lab/blob/main/img/DMF_open.jpg)
+
 Delta Memory Force elibera memoria RAM prin alocarea temporară a unei cantități mari de memorie. Această operație determina Windows să mute în memoria virtuală, pe disc, paginile inactive ale proceselor și să reducă memoria fizică ocupată. După încheierea operației, memoria temporar alocată de program era eliberată, rezultând o creștere imediată a cantității de RAM disponibile.
 
 Programul nu ștergea date și nu închidea aplicațiile, ci forța sistemul de operare să reorganizeze memoria, păstrând în RAM în special datele active și transferând pe disc informațiile utilizate mai rar. Acest principiu era cunoscut la începutul anilor 2000 sub denumirea de RAM optimization sau memory forcing și explică numele aplicației, Delta Memory Force.
 
 Aplicația a fost concepută pentru generațiile Windows din acea perioadă, cel mai probabil Windows 98, Windows NT și Windows 2000, fiind posibil să funcționeze și pe Windows XP. Compatibilitatea cu sistemele Windows moderne nu este garantată.
-
-
-## Capturi de ecran
-
-### Interfața principală
-
-![Screenshot](https://github.com/Gagniuc/ATM-Lab/blob/main/img/DMF_open.jpg)
 
 ## Funcționalități
 
