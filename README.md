@@ -1,6 +1,6 @@
 # Delta Memory Force 2.0
 
-**Delta Memory Force 2.0** este o aplicație Windows pentru monitorizarea și administrarea resurselor sistemului, realizată în perioada **1999–2001**. Ultima versiune a fost compilată în jurul anului **2004**. Proiectul este publicat în prezent cu scop istoric, educațional și arhivistic, ca exemplu de aplicație de sistem dezvoltată pentru generațiile Windows de la sfârșitul anilor 1990 și începutul anilor 2000.
+**Delta Memory Force 2.0** este o aplicație Windows pentru monitorizarea și administrarea resurselor sistemului, realizată în perioada **1999-2001**. Ultima versiune a fost compilată în jurul anului **2004**. Proiectul este publicat în prezent cu scop istoric, educațional și arhivistic, ca exemplu de aplicație de sistem dezvoltată pentru generațiile Windows de la sfârșitul anilor 1990 și începutul anilor 2000.
 
 Prima versiune distribuită public, Delta Memory Force 1.0, a apărut la începutul anilor 2000 pe compilația internațională <a href="https://archive.org/details/onyxdvd-11">Onyx DVD #11 – Adrenaline</a>, sub denumirea „Delta Memory Force 1.0 (c) RamForces”. Această includere reprezintă cea mai veche apariție publică documentată a aplicației identificată până în prezent.
 
