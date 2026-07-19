@@ -14,9 +14,8 @@ Aplicația permite eliberarea memoriei RAM, schimbarea priorității proceselor,
 
 
 <p align="center">
-  <img src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/gif/dmf_open_(II).gif" alt="Delta Memory Force V2.0 on Windows Me/2000">
+  <img src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/DMF_Win11_close_(II).png" alt="Delta Memory Force V3.0 on Windows 11">
 </p>
-
 
 Delta Memory Force elibera memoria RAM prin alocarea temporară a unei cantități mari de memorie. Această operație determina Windows să mute în memoria virtuală, pe disc, paginile inactive ale proceselor și să reducă memoria fizică ocupată. După încheierea operației, memoria temporar alocată de program era eliberată, rezultând o creștere imediată a cantității de RAM disponibile.
 
