@@ -8,14 +8,35 @@ Programul afișează în timp real memoria RAM liberă și totală, utilizarea p
 
 Aplicația permite eliberarea memoriei RAM, schimbarea priorității proceselor, terminarea acestora și accesarea unor funcții avansate de administrare. Interfața grafică, specifică începutului anilor 2000, folosește un stil tehnic distinct, cu fundal negru, grafice verzi și indicatori colorați actualizați în timp real.
 
+
+<hr>
+
+<img
+  align="right"
+  src="https://github.com/Gagniuc/ATM-Lab/blob/main/img/DMF_Win11_close_(II).png"
+  alt="Delta Memory Force 2.0 on Windows 11">
+
+# Delta Memory Force 2.0
+
+**Delta Memory Force 2.0** este o aplicație Windows pentru monitorizarea și administrarea resurselor sistemului, realizată în perioada **1999-2001**. Ultima versiune a fost compilată în jurul anului **2004**. Proiectul este publicat în prezent cu scop istoric, educațional și arhivistic, ca exemplu de aplicație de sistem dezvoltată pentru generațiile Windows de la sfârșitul anilor 1990 și începutul anilor 2000.
+
+Prima versiune distribuită public, Delta Memory Force 1.0, a apărut la începutul anilor 2000 pe compilația internațională <a href="https://archive.org/details/onyxdvd-11">Onyx DVD #11 – Adrenaline</a>, sub denumirea „Delta Memory Force 1.0 (c) RamForces”. Această includere reprezintă cea mai veche apariție publică documentată a aplicației identificată până în prezent.
+
+Programul afișează în timp real memoria RAM liberă și totală, utilizarea procesorului, graficele de activitate pentru CPU și memorie, lista proceselor active, prioritatea și numărul de fire de execuție ale procesului selectat, precum și capacitatea și spațiul liber ale unităților de stocare.
+
+Aplicația permite eliberarea memoriei RAM, schimbarea priorității proceselor, terminarea acestora și accesarea unor funcții avansate de administrare. Interfața grafică, specifică începutului anilor 2000, folosește un stil tehnic distinct, cu fundal negru, grafice verzi și indicatori colorați actualizați în timp real.
+
+<br clear="right">
+
+
+<hr>
+
+
 <p align="center">
   <img src="https://github.com/Gagniuc/ATM-Lab/blob/main/img/DMF_WinME_open.jpg" alt="Delta Memory Force V2.0 on Windows Me/2000">
 </p>
 
 
-<p align="center">
-  <img src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/DMF_Win11_close_(II).png" alt="Delta Memory Force V3.0 on Windows 11">
-</p>
 
 Delta Memory Force elibera memoria RAM prin alocarea temporară a unei cantități mari de memorie. Această operație determina Windows să mute în memoria virtuală, pe disc, paginile inactive ale proceselor și să reducă memoria fizică ocupată. După încheierea operației, memoria temporar alocată de program era eliberată, rezultând o creștere imediată a cantității de RAM disponibile.
 
