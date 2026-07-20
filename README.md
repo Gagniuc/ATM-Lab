@@ -299,6 +299,7 @@ Delta Memory Force este rezultatul acelei lumi.
 După mai bine de douăzeci de ani, programul nu mai este doar un executabil. Este o poveste despre programare, Internet, proprietate intelectuală, încredere, risc și începuturile unei vieți dedicate software-ului.
 
 — **Paul Aurelian Gagniuc**
+![Screenshot](https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/old_days_(II).png)
 
 
 
