@@ -1,0 +1,50 @@
+CD:\AUTORUN.INF                ****************
+CD:\DMF\Start.exe              ****************
+CD:\DMF\DMF.DLL                ****************
+
+CD:\DMF\CD\Sunet\xx.wav        ****************
+CD:\DMF\CD\Sunet\S_fundal.wav  ****************
+
+CD:\DMF\CD\Aferent\Cruce.ani   ****************
+CD:\DMF\CD\Aferent\DMF.ico     ****************
+CD:\DMF\CD\Aferent\DMF.doc     ****************
+
+CD:\DMF\DMF\g2.exe             ****************
+CD:\DMF\DMF\DMF.DLL            ****************
+CD:\DMF\DMF\mscomctl.ocx       ****************
+CD:\DMF\DMF\VB6STKIT.DLL       ****************
+CD:\DMF\DMF\msvcrt.dll         ****************
+CD:\DMF\DMF\Rsrc32.dll         ****************
+CD:\DMF\DMF\winmm.dll          ****************
+
+CD:\DMF\Instalare\g2.exe       ****************
+CD:\DMF\Instalare\DMF.dll      ****************
+CD:\DMF\Instalare\DMF.doc      ****************
+CD:\DMF\Instalare\mscomctl.ocx ****************
+CD:\DMF\Instalare\VB6STKIT.DLL ****************
+CD:\DMF\Instalare\msvcrt.dll   ****************
+CD:\DMF\Instalare\Rsrc32.dll   ****************
+CD:\DMF\Instalare\winmm.dll    ****************
+
+CD:\DMF\KIT\DMF_KIT.zip        ****************
+
+
+
+DMF_KIT.zip:
+
+Setup.exe                      ****************
+DMF_2004.DLL                   ****************
+
+DMF\g2.exe                     ****************
+DMF\DMF_2004.DLL               ****************
+DMF\DMF.doc                    ****************
+DMF\mscomctl.ocx               ****************
+DMF\VB6STKIT.DLL               ****************
+DMF\msvcrt.dll                 ****************
+DMF\Rsrc32.dll                 ****************
+DMF\winmm.dll                  ****************
+DMF\xx.wav                     ****************
+
+Dimensiune pachet: 27.071.414 b
+
+Software & Copyright by Paul Gagniuc
