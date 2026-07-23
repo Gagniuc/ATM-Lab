@@ -118,7 +118,7 @@ Delta Memory Force fusese conceput ca un produs comercial complet, nu doar ca un
 <hr>
 
 <p align="center">
-  <img src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/info/gpt_4.png" alt="Delta Memory Force V.2.0 CD/DVD cover">
+  <img src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/info/gpt_2.png" alt="Delta Memory Force V.2.0 CD/DVD cover">
 </p>
 
 <hr>
@@ -261,6 +261,14 @@ Nu eram convins. Eram neexperimentat în afaceri, dar nu eram complet naiv. În�
 Pentru a-i arăta că tratez serios drepturile asupra programului, i-am spus că voi merge la București pentru a înregistra Delta Memory Force la **Oficiul Român pentru Drepturile de Autor - ORDA**.
 
 Inițial, această decizie a avut și rolul unei avertizări. Voiam să înțeleagă că programul nu era abandonat, că autorul avea un nume și că existau documente care puteau demonstra proprietatea intelectuală. În același timp, după ce am spus că voi face acest lucru, am decis să îl fac cu adevărat.
+
+<hr>
+
+<p align="center">
+  <img src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/info/gpt_4.png" alt="Delta Memory Force V.2.0 CD/DVD cover">
+</p>
+
+<hr>
 
 Am început să strâng documente, să obțin actele necesare și să pregătesc deplasarea. Din corespondența păstrată reiese cât de complicată mi se părea atunci întreaga procedură administrativă: drumuri la instituții, taxe, autorizații, trenuri între Bacău, București și Timișoara și presiunea de a rezolva totul rapid.
 
