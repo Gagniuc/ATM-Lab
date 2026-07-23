@@ -118,7 +118,7 @@ Delta Memory Force fusese conceput ca un produs comercial complet, nu doar ca un
 <hr>
 
 <p align="center">
-  <img src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/cover.png" alt="Delta Memory Force V.2.0 CD/DVD cover">
+  <img src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/info/gpt_3.png" alt="Delta Memory Force V.2.0 CD/DVD cover">
 </p>
 
 <hr>
@@ -351,13 +351,5 @@ Delta Memory Force este rezultatul acelei lumi. Îl ofer acum gratuit, cu bunele
 
 — **Paul Aurelian Gagniuc**
 ![Screenshot](https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/old_days_(II).png)
-
-
-
-
-
-
-
-
 
 
