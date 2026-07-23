@@ -101,7 +101,13 @@ Compatibilitatea probabilă include:
 <hr>
 
 <p align="center">
-  <img src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/DMF_cd_install.jpg" alt="Delta Memory Force V.3.0 on Windows 11">
+  <img src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/DMF_cd_install_1.jpg" alt="Delta Memory Force V.3.0 on Windows 11">
+</p>
+
+<hr>
+
+<p align="center">
+  <img src="https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/DMF_cd_install_2.jpg" alt="Delta Memory Force V.3.0 on Windows 11">
 </p>
 
 <hr>
