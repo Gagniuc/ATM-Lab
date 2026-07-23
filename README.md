@@ -218,7 +218,7 @@ Nu eram convins. Eram neexperimentat în afaceri, dar nu eram complet naiv. În�
 
 ## ORDA: încercarea de a-mi proteja programul
 
-Pentru a-i arăta că tratez serios drepturile asupra programului, i-am spus că voi merge la București pentru a înregistra Delta Memory Force la **Oficiul Român pentru Drepturile de Autor — ORDA**.
+Pentru a-i arăta că tratez serios drepturile asupra programului, i-am spus că voi merge la București pentru a înregistra Delta Memory Force la **Oficiul Român pentru Drepturile de Autor - ORDA**.
 
 Inițial, această decizie a avut și rolul unei avertizări. Voiam să înțeleagă că programul nu era abandonat, că autorul avea un nume și că existau documente care puteau demonstra proprietatea intelectuală. În același timp, după ce am spus că voi face acest lucru, am decis să îl fac cu adevărat.
 
