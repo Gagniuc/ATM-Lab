@@ -1,4 +1,4 @@
-# Delta Memory Force 2.0
+# Delta Memory Force 2.0 (1999 - 2004)
 
 <img
   align="right"
@@ -17,17 +17,22 @@ Aplicația permite eliberarea memoriei RAM, schimbarea priorității proceselor,
 
 Delta Memory Force elibera memoria RAM prin alocarea temporară a unei cantități mari de memorie. Această operație determina Windows să mute în memoria virtuală, pe disc, paginile inactive ale proceselor și să reducă memoria fizică ocupată. După încheierea operației, memoria temporar alocată de program era eliberată, rezultând o creștere imediată a cantității de RAM disponibile.
 
+Programul nu ștergea date și nu închidea aplicațiile, ci forța sistemul de operare să reorganizeze memoria, păstrând în RAM în special datele active și transferând pe disc informațiile utilizate mai rar. Acest principiu era cunoscut la începutul anilor 2000 sub denumirea de RAM optimization sau memory forcing și explică numele aplicației, Delta Memory Force.
+
 <hr>
 
 <p align="center">
   <img src="https://github.com/Gagniuc/ATM-Lab/blob/main/img/DMF_WinME_open.png" width="609" height="386" alt="Delta Memory Force V2.0 on Windows Me/2000">
 </p>
 
-Programul nu ștergea date și nu închidea aplicațiile, ci forța sistemul de operare să reorganizeze memoria, păstrând în RAM în special datele active și transferând pe disc informațiile utilizate mai rar. Acest principiu era cunoscut la începutul anilor 2000 sub denumirea de RAM optimization sau memory forcing și explică numele aplicației, Delta Memory Force.
-
 Aplicația a fost concepută pentru generațiile Windows din acea perioadă, precum Windows 98, Windows NT și Windows 2000, existând mai multe versiuni și adaptări succesive, inclusiv pentru Windows XP. Arhiva păstrează sursele originale ale versiunilor 1.0 și 2.0 din perioada 1999-2004. Compatibilitatea cu sistemele Windows moderne nu este garantată. Există însă și o versiune Delta Memory Force 3.0, adaptată în 2026 pentru Windows 11 și complet funcțională.
 
 Elementele grafice statice ale interfeței, în special măștile și fundalurile panourilor, au fost realizate manual în Microsoft Paint, pixel cu pixel. Graficele CPU și RAM, LED-urile, barele de nivel și acele indicatoarelor de tip VU-meter sunt generate și actualizate dinamic prin programare, în timp real.
+
+Repository-ul reprezintă arhiva completă a proiectului Delta Memory Force și reunește versiunile și subversiunile păstrate, codul sursă original, măștile grafice realizate manual în format BMP, documentele tehnice, paginile HTM și HTML explicative, kiturile de instalare, structurile CD-urilor și coperțile concepute pentru distribuția comercială. Arhiva include și sistemul original de licențiere trial. La prima pornire, programul genera un identificator aleatoriu de 20 de caractere, îl cripta și îl afișa drept Product ID. 
+
+Autorul introducea acest Product ID într-un generator separat, care recupera identificatorul intern și producea o cheie de activare unică prin criptarea unei semnături secrete. Programul valida cheia prin operația inversă și accepta activarea numai dacă obținea semnătura internă corectă. Versiunea trial permitea 30 de porniri, iar contorul era duplicat și verificat în mai multe zone mascate ale registrului Windows, împreună cu un fișier suplimentar de control, pentru a detecta tentativele de resetare. După validare, cheia și numele cumpărătorului erau păstrate în registru, iar copia devenea completă și înregistrată.
+
 
 ## Funcționalități
 
@@ -50,24 +55,23 @@ Programul permite, de asemenea:
 - actualizarea listei de procese;
 - accesarea unor opțiuni suplimentare de administrare a sistemului.
 
-![Screenshot](https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/DMF_sys.jpg)
+
+## Integrarea în System Tray
+
+Aplicația includea și integrare în zona de notificare Windows, numită System Tray. Pictograma afișa numeric, în timp real, cantitatea de memorie RAM liberă, permițând monitorizarea sistemului fără deschiderea ferestrei principale. Tot de aici puteau fi accesate rapid funcțiile Free RAM, Show, Hide, Options și Exit. Pentru începutul anilor 2000, această reprezentare compactă și dinamică avea un aspect grafic modern.
+
+| Windows 11 | Windows Me |
+|----------|----------|
+|![Screenshot](https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/DMF_sys.jpg)|![Screenshot](https://github.com/Gagniuc/Delta-Memory-Force-2.0/blob/main/img/info/bara.png)|
+
+## Opțiuni de configurare
+
+Fereastra de opțiuni permitea pornirea automată odată cu Windows, rularea minimizată în System Tray, funcționarea în mod de monitorizare, optimizarea memoriei la pornire și rularea în mod service. Utilizatorul putea stabili ca eliberarea memoriei să fie efectuată numai atunci când utilizarea procesorului cobora sub un anumit prag, precum 50%, și putea configura intervalul periodic de optimizare a memoriei RAM, de exemplu la fiecare 30 de minute.
 
 
 ## Principiul de eliberare a memoriei
 
-Delta Memory Force elibera memoria RAM prin **alocarea temporară a unei cantități mari de memorie**.
-
-Această operație determina sistemul Windows să reducă memoria fizică ocupată de paginile inactive și să transfere o parte dintre acestea în memoria virtuală, pe disc. După finalizarea procesului, memoria alocată temporar de aplicație era eliberată, rezultând o creștere imediată a cantității de RAM raportate ca fiind disponibile.
-
-Programul nu ștergea date și nu închidea automat aplicațiile. El forța sistemul de operare să reorganizeze utilizarea memoriei, păstrând în RAM în special datele active și mutând temporar pe disc informațiile utilizate mai rar.
-
-La începutul anilor 2000, această tehnică era cunoscută sub denumiri precum:
-
-- **RAM optimization**;
-- **memory forcing**;
-- **memory freeing**.
-
-Acest principiu explică și numele aplicației: **Delta Memory Force**.
+Delta Memory Force elibera memoria RAM prin **alocarea temporară a unei cantități mari de memorie**. Această operație determina sistemul Windows să reducă memoria fizică ocupată de paginile inactive și să transfere o parte dintre acestea în memoria virtuală, pe disc. După finalizarea procesului, memoria alocată temporar de aplicație era eliberată, rezultând o creștere imediată a cantității de RAM raportate ca fiind disponibile. Programul nu ștergea date și nu închidea automat aplicațiile. El forța sistemul de operare să reorganizeze utilizarea memoriei, păstrând în RAM în special datele active și mutând temporar pe disc informațiile utilizate mai rar. La începutul anilor 2000, această tehnică era cunoscută sub denumiri precum: i) **RAM optimization**; ii) **memory forcing**; iii) **memory freeing**. Evident, acest principiu explică și numele aplicației: **Delta Memory Force**.
 
 > Creșterea valorii „Free RAM” nu înseamnă neapărat o creștere permanentă a performanței. În anumite situații, accesarea ulterioară a datelor mutate în memoria virtuală putea produce activitate suplimentară pe disc.
 
